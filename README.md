@@ -1,2 +1,2 @@
 # MMpacktool
-little work for yinmin
+a little boring work for yinmin
